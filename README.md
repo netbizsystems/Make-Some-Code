@@ -15,5 +15,5 @@ Writing a simple web-page that shows one single property such as CompanyName req
 ## Setup Requirements to Run Local
 
 * Open the MakeSomeCode.sln solution in Visual Studio.
-* Set code-generation properties in $settings.t4
+* Set code-generation properties in $settings.tt
 * Click Transform All T4 Templates on the Build menu
