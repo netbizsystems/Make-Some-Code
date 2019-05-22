@@ -3,6 +3,8 @@ Writing a simple web-page that shows one single property such as CompanyName req
 
 ![UWP](sampleapp.png)
 
+When I get 5 stars I will upload the code :)
+
 ## Overview
 
 ![xxx](t4output.png)
