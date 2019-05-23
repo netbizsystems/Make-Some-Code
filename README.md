@@ -6,6 +6,9 @@ Writing a simple web-page that shows one single property such as CompanyName req
 When I get 5 stars I will upload the code :)
 
 ## Overview
+All templates reply on metadata that is seeded from the SQL Server INFORMATION_SCHEMA views and then enhanced with additional properties that describe how tables and columns are used in the generated code.
+
+All templates, using the same settings, can be run with one click. Or, you can run a template on its own. Either way, you now have code that you can integrate into your application without all that typing.
 
 ![xxx](t4output.png)
 
